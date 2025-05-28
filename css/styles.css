@@ -1,0 +1,57 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: lightslategray;
+}
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 1rem;
+    background-color: gray;
+    color: rgb(59, 61, 196);
+    position: relative;
+    top: 0;
+    z-index: 100;
+    box-shadow: 0 2px 5px black;
+    transition: all 0.3 ease-in-out;    
+}
+.menu {
+    display: flex;
+    flex-direction: row;
+    gap: 160px;
+    margin-left: 500px;
+}
+
+.titulo {
+    text-align: center;
+    font-size: 50px;
+    color: aliceblue;
+}
+
+.bienvenida {
+    text-align: center;
+    font-size: 30px;
+}
+
+.button {
+    margin-left: 770px;
+    font-size: 40px;
+    border-color: black;
+
+}
+
+.contenedor {
+    display: flex;
+    justify-content: center;
+    flex: 0%;
+}
+.card {
+    border-radius: 15px;
+    padding: 40px;
+    margin: 34px;
+    width: 300px;
+    height: 450px;
+    box-shadow: black;
+    border: 1px solid black;
+}

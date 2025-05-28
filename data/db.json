@@ -1,0 +1,29 @@
+{
+    "KANBAN": [
+        {
+            "pendientes":{
+                "titulo": "terminar parte de los arreglos",
+                "descripcion":"",
+                "fechainicio":"02/15/2024",
+                "fechafinal":"02/17/2024"
+            }
+        },
+        {
+            "completadas":{
+                "titulo": "meeting para reforzar codigo",
+                "descripcion":"",
+                "fechainicio":"02/15/2024",
+                "fechafinal":"02/17/2024"
+
+            }
+        },
+        {
+            "Enprogreso":{
+                "titulo": "cambios en el codigo base",
+                "descripcion":"",
+                "fechainicio":"02/15/2024",
+                "fechafinal":"02/17/2024"
+            }
+        }
+    ]
+}
